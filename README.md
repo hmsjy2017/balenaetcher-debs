@@ -6,7 +6,7 @@ Thanks to [**@Itai-Nelken**](https://github.com/Itai-Nelken/) for creating scrip
 
 ### How to install the repository...
 ```
-sudo wget https://chunky-milk.github.io/balenaetcher-debs/etcher.list -O /etc/apt/sources.list.d/etcher.list
-wget -qO- https://chunky-milk.github.io/balenaetcher-debs/KEY.gpg | sudo apt-key add -
+sudo wget https://etcher.armlinux.ml/etcher.list -O /etc/apt/sources.list.d/etcher.list
+wget -qO- https://etcher.armlinux.ml/KEY.gpg | sudo apt-key add -
 sudo apt update && sudo apt install balena-etcher-electron -y
 ```
