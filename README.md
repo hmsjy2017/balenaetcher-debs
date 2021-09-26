@@ -1,6 +1,6 @@
 # balenaEtcher arm builds
 
-Automatically compiled and uploaded for each new Etcher release. (arm64 only for now)
+Automatically compiled and uploaded for each new Etcher release.
 
 Thanks to [**@Itai-Nelken**](https://github.com/Itai-Nelken/) for creating compile scripts.
 
